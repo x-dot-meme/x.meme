@@ -1,2 +1,4 @@
 # x.meme
-Build the most sophisticated meme site
+Building the most sophisticated meme site.
+
+info@x.meme
